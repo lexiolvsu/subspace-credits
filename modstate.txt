@@ -1,1 +1,1 @@
-smc::on
+ssc::on
