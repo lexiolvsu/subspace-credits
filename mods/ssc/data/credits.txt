@@ -1,3 +1,6 @@
 Subspace Manifold
 lexiolvsu::lexio::Director::https://www.twitter.com/lexiolvsu::FF3636
 Lemlom::lem::Artist for Icons and Help with Animation::https://twitter.com/lemlom_::FC0394
+Characters Mentioned
+Lexio::lexio::By lexiolvsu::https://www.twitter.com/lexiolvsu::FF3636
+Lemlom::lem2::By Lemlom::https://twitter.com/lemlom_::FC0394
